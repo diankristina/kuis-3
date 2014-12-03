@@ -1,3 +1,4 @@
+<?php
 <html>
 <head>
   <link href="asset/css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -27,11 +28,6 @@
     <div class="container">
       <div class="jumbotron">
         <h3>Tugas KUIS 2</h3>
-        <ul>
-          <li>Buatlah tampilan seperti berikut menggunakan service : http://api.radioreference.com/soap2/?wsdl&v=latest</li>
-          <li>Method : getCountryList</li>
-          <li>Buatlah di pagodabox masing-masing dan hasil merupakan url di pagodabox dan dikirim ke email burhanudin.hakim@ugm.ac.id berupa : repository github dan url pagodabox</li>
-        </ul>
       </div>
       <table class="table table-bordered">
           <tr>
@@ -68,3 +64,4 @@
 
 </body>
 </html>
+?>
